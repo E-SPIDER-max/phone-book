@@ -1,3 +1,9 @@
+/*
+made by pranaya raj neupane(espider)
+kathmandu,Nepal
+//beginner//
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
